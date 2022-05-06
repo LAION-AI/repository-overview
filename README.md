@@ -19,4 +19,7 @@ This repository will give a quick overview of all projects and repositories from
 - https://github.com/LAION-AI/LAION-5B-WatermarkDetection
 - https://github.com/LAION-AI/CLIP_benchmark
 - https://github.com/LAION-AI/CLAP
-- https://github.com/LAION-AI/diffusion-prior
+- https://github.com/LAION-AI/super-resolution
+- https://github.com/LAION-AI/medical
+- https://github.com/LAION-AI/laion-3d
+- https://github.com/lucidrains/DALLE2-pytorch
